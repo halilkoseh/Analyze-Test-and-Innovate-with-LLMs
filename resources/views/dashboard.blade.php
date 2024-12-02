@@ -168,7 +168,7 @@
                 } else {
                     // Hata durumunda hata mesajını göster
                     outputText.textContent = `Error:\n${data.output}\n\nSaved File: ${data.file}`;
-                    outputText.classList.add("text-red-500"); // Hata durumunda kırmızı renk
+                    outputText.classList.add("text-blue-500"); // Hata durumunda kırmızı renk
                 }
             } catch (error) {
                 const outputText = document.getElementById("output-text");
