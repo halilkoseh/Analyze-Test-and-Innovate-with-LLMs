@@ -1,3 +1,8 @@
+Summary of the project
+In this study, it is aimed to develop a platform that will be able to perform unit tests, interface tests and interpretation of the code given as input, by using large language model (LLM) agents and supporting at least 3 programming languages. The platform to be developed will take the code block as input and produce output in line with the user's requests (unit, interface, code comment).
+
+
+
 Welcome to the AI-Based Interactive Software Development Platform with LLM Agents! This platform harnesses the power of Large Language Models (LLMs) to revolutionize software development by supporting multiple programming languages and offering advanced features like code analysis, interpretation, unit testing, and interface testing.
 
 Features
