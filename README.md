@@ -1,31 +1,34 @@
-Summary of the project
-In this study, it is aimed to develop a platform that will be able to perform unit tests, interface tests and interpretation of the code given as input, by using large language model (LLM) agents and supporting at least 3 programming languages. The platform to be developed will take the code block as input and produce output in line with the user's requests (unit, interface, code comment).
+Proje Kapsamı
+Proje, Savunma Sanayii Başkanlığı (SSB) ile Yükseköğretim Kurulu (YÖK) iş birliğinde, SAYZEK (Savunma Sanayii Yapay Zeka Yetenek Kümelenmesi) koordinasyonunda yürütülen 2024-2025 dönemi Yapay Zeka Akademik Tez Programı (ATP) çerçevesinde gerçekleştirilecektir. Lisans düzeyinde hazırlanan bu tez çalışması, Doç. Dr. Jawad Rasheed danışmanlığında yürütülecektir.
 
 
+Proje Özeti: Büyük Dil Modeli (LLM) Destekli Etkileşimli Yazılım Geliştirme Platformu
+Bu çalışma, yazılım geliştirme süreçlerini iyileştirmek amacıyla Büyük Dil Modelleri (LLM) ile entegre edilmiş bir platform geliştirilmesini hedeflemektedir. Geliştirilecek olan bu platform, birden fazla programlama dilini destekleyerek kullanıcıların yazılım geliştirme süreçlerini otomatikleştirecek ve kolaylaştıracaktır. Platformun temel işlevleri arasında, verilen kodun analiz edilmesi, yorumlanması, birim testlerinin (unit tests) gerçekleştirilmesi ve arayüz testlerinin (interface tests) yapılması yer almaktadır. Kullanıcı, platforma bir kod bloğu girdiğinde, ihtiyaçlarına uygun olarak kodun analizi, test edilmesi ya da yorumlanması gibi çıktılar alabilecektir.
 
-Welcome to the AI-Based Interactive Software Development Platform with LLM Agents! This platform harnesses the power of Large Language Models (LLMs) to revolutionize software development by supporting multiple programming languages and offering advanced features like code analysis, interpretation, unit testing, and interface testing.
+Platformun Özellikleri
+Çoklu Programlama Dili Desteği
+Platform, farklı yazılım geliştirme dillerini destekleyerek geniş bir geliştirici kitlesine hitap etmeyi amaçlamaktadır.
 
-Features
-Multi-Language Support:
+Kod Analizi
+Kod yapısını analiz ederek olası hatalar, performans iyileştirme fırsatları ve optimizasyon önerileri sunacaktır.
 
-The platform supports various programming languages, making it accessible for developers across different tech stacks.
-Code Analysis:
+Kod Yorumlama
+Girilen kod bloklarını açıklayıcı bir şekilde yorumlayarak, karmaşık algoritmaların daha kolay anlaşılmasını sağlayacaktır.
 
-Provides intelligent insights into code structure, potential bugs, and optimization opportunities.
-Code Interpretation:
+Birim Testleri Otomasyonu
+Yazılım geliştirme süreçlerini hızlandırmak ve güvenilirliğini artırmak için birim testlerini otomatik olarak oluşturup çalıştırabilecektir.
 
-Offers clear interpretations of code snippets, making it easier to understand complex logic.
-Unit Testing:
+Arayüz Testleri
+Kullanıcı arayüzü/deneyimi testlerini AI destekli simülasyonlarla kolaylaştıracaktır.
 
-Automates unit testing for faster and more reliable software validation.
-Interface Testing:
+Özelleştirilebilir Çıktılar
+Kullanıcı ihtiyaçlarına göre özelleştirilebilir öneriler ve çıktı seçenekleri sunacaktır.
 
-Simplifies UI/UX testing processes with AI-driven simulations and validations.
-Customizable Outputs:
-
-Tailors results and recommendations based on user requirements.
-Technology Stack
+Teknolojik Altyapı
 Backend Framework: Laravel
-AI Integration: Large Language Models (e.g., OpenAI GPT, Codex, or similar)
-Frontend: Vue.js (or preferred framework/library for UI components)
-Database: MySQL (or other supported databases in Laravel)
+Yapay Zeka Entegrasyonu: Büyük Dil Modelleri (OpenAI GPT, Codex vb.)
+Frontend: Vue.js (veya diğer UI kütüphaneleri)
+Veritabanı: MySQL (veya Laravel tarafından desteklenen alternatif veritabanları)
+
+Projenin Katkıları
+Bu platform, yazılım geliştiricilerin iş yükünü hafifletmekle kalmayıp, kodlama süreçlerini daha etkili ve verimli hale getirecektir. Büyük Dil Modellerinin gücünden yararlanılarak gerçekleştirilecek bu çalışma, savunma sanayii başta olmak üzere birçok sektöre yönelik yenilikçi ve pratik bir çözüm sunmayı hedeflemektedir.
