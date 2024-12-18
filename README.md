@@ -1,6 +1,7 @@
 Proje Kapsamı
 Proje, Savunma Sanayii Başkanlığı (SSB) ile Yükseköğretim Kurulu (YÖK) iş birliğinde, SAYZEK (Savunma Sanayii Yapay Zeka Yetenek Kümelenmesi) koordinasyonunda yürütülen 2024-2025 dönemi Yapay Zeka Akademik Tez Programı (ATP) çerçevesinde gerçekleştirilecektir. Lisans düzeyinde hazırlanan bu tez çalışması, Doç. Dr. Jawad Rasheed danışmanlığında yürütülecektir.
 
+https://www.linkedin.com/posts/halilkoseh_b%C3%BCy%C3%BCk-bir-heyecan-ve-mutlulukla-payla%C5%9Fmak-activity-7264999010229239811-kPAq?utm_source=share&utm_medium=member_desktop
 
 Proje Özeti: Büyük Dil Modeli (LLM) Destekli Etkileşimli Yazılım Geliştirme Platformu
 Bu çalışma, yazılım geliştirme süreçlerini iyileştirmek amacıyla Büyük Dil Modelleri (LLM) ile entegre edilmiş bir platform geliştirilmesini hedeflemektedir. Geliştirilecek olan bu platform, birden fazla programlama dilini destekleyerek kullanıcıların yazılım geliştirme süreçlerini otomatikleştirecek ve kolaylaştıracaktır. Platformun temel işlevleri arasında, verilen kodun analiz edilmesi, yorumlanması, birim testlerinin (unit tests) gerçekleştirilmesi ve arayüz testlerinin (interface tests) yapılması yer almaktadır. Kullanıcı, platforma bir kod bloğu girdiğinde, ihtiyaçlarına uygun olarak kodun analizi, test edilmesi ya da yorumlanması gibi çıktılar alabilecektir.
